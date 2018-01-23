@@ -1,0 +1,14 @@
+入门文档：
+https://www.zhihu.com/question/20104186
+
+intellij与Maven的集成
+http://blog.csdn.net/qq_32588349/article/details/51461182
+
+Maven Install的项目中找不到主清单属性
+http://blog.csdn.net/cloume/article/details/51969740
+要添加METIFEST文件，而且文件末尾要以一个空行结束
+
+Maven无法找到下载下来的包：
+
+GroupID一般填公司的名字 company.***.
+ArtID一般和项目名字填一样
