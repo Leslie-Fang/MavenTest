@@ -7,8 +7,11 @@ http://blog.csdn.net/qq_32588349/article/details/51461182
 Maven Install的项目中找不到主清单属性
 http://blog.csdn.net/cloume/article/details/51969740
 要添加METIFEST文件，而且文件末尾要以一个空行结束
+同时在pom中需要添加插件
 
 Maven无法找到下载下来的包：
+类似于testng这类的包只能在test的phase去使用，没有办法导入到src的代码中
+
 
 GroupID一般填公司的名字 company.***.
 ArtID一般和项目名字填一样
