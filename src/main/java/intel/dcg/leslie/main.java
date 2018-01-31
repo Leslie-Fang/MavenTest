@@ -31,9 +31,13 @@ public class main {
 //        }
 
         //test part4
-        TestJDBC myTestJDBC = new TestJDBC();
+//        TestJDBC myTestJDBC = new TestJDBC();
 //        myTestJDBC.test();
 //        myTestJDBC.test2();
-        myTestJDBC.testInsert();
+//        myTestJDBC.testInsert();
+
+        //test part5
+        reflect myReflect = new reflect();
+        myReflect.test();
     }
 }
