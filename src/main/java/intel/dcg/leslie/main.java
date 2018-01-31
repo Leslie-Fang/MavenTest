@@ -32,6 +32,8 @@ public class main {
 
         //test part4
         TestJDBC myTestJDBC = new TestJDBC();
-        myTestJDBC.test();
+//        myTestJDBC.test();
+//        myTestJDBC.test2();
+        myTestJDBC.testInsert();
     }
 }
