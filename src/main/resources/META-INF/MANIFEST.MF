@@ -1,1 +1,2 @@
 Main-Class: intel.dcg.leslie.main
+Class-Path: /Users/leslie/.m2/repository/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar

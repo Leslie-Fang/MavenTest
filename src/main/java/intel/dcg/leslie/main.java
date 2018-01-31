@@ -19,15 +19,19 @@ public class main {
 //        System.out.println(myTestSort.songAuthorList);
 
         //test part3
-        TestSort myTestSort = new TestSort();
-        myTestSort.test2();
-        //System.out.println(myTestSort.songObjectList.get(0).getName());
-        for(Song i:myTestSort.songObjectList){
-            System.out.println(i.getName());
-        }
-        Collections.sort(myTestSort.songObjectList);
-        for(Song i:myTestSort.songObjectList){
-            System.out.println(i.getName());
-        }
+//        TestSort myTestSort = new TestSort();
+//        myTestSort.test2();
+//        //System.out.println(myTestSort.songObjectList.get(0).getName());
+//        for(Song i:myTestSort.songObjectList){
+//            System.out.println(i.getName());
+//        }
+//        Collections.sort(myTestSort.songObjectList);
+//        for(Song i:myTestSort.songObjectList){
+//            System.out.println(i.getName());
+//        }
+
+        //test part4
+        TestJDBC myTestJDBC = new TestJDBC();
+        myTestJDBC.test();
     }
 }
