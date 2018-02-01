@@ -16,5 +16,5 @@ public class cat extends felidae{
     public boolean eat(String food){
         System.out.println("cat is eating:"+food);
         return true;
-    };
+    }
 }
